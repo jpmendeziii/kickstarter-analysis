@@ -6,3 +6,4 @@
 The raw data of theater outcomes based on launch date shows that the months of May and June have the highest successful outcomes.  Interestingly, the months of May, July, October and June have the highest number of failed outcomes.  This speaks to the volume of the number of Kickstarter Theater campaigns that occur during the summer months of May – July.  However there does seem to be a spike in failure rates starting in October.  The data set 
 
 [Percentages_Theater_Outcomes_by_Launch_Date](https://github.com/jpmendeziii/kickstarter-analysis/blob/main/Percentages_Theater_Outcomes_by_Launch_Date.xlsx)
+![Percentages_Outcomes_Based_on_Launch_Date](Percentages_Outcomes_Based_on_Launch_Date.png)
