@@ -5,6 +5,7 @@
 
 The raw data of theater outcomes based on launch date shows that the months of May and June have the highest successful outcomes.  Interestingly, the months of May, July, October and June have the highest number of failed outcomes.  This speaks to the volume of the number of Kickstarter Theater campaigns that occur during the summer months of May – July.  However, there does seem to be a spike in failure rates starting in October which may signal a seasonality trend.  One explanation for the seasonality effect is the disposable income for businesses and people in general seem to decrease as the calendar year expires. This will be demonstrated more optimally in a later visualization.
 ### Conclusions about Outcomes Based on Goals
+![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
 
 ### Limitations on the Dataset
 
