@@ -2,7 +2,8 @@
 ## Performing analysis on Kickstarter data to uncover trends.
 ### To help Louise analyze how different Kickstarter campaigns fared in relation to their launch dates, this analysis is an effort in understanding how different campaigns fared based on their respective launch dates and funding goals.  Please refer to the [Kickstarter_Challenge.xlsb](Kickstarter_Challenge.xlsb) for reference.
 ### Challenges Encountered
-This was the first time I utilized GitHub so there is definitely a learning curve involved with formatting and uploading data properly.
+This was the first time I utilized GitHub so there is a learning curve involved with formatting and uploading data properly.  Utilizing the CountIFs function in excel was also a new endeavor for me as well and nesting functions also posed some time sinks.
+
 ## Results of Analysis
 ### Conclusions about Outcomes Based on Launch Date Data
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85074720/123522205-8b3ba800-d681-11eb-8413-c99b9cbf0135.png)
