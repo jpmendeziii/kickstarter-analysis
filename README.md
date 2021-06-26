@@ -9,7 +9,7 @@
 The raw data of theater outcomes based on launch date shows that the months of May and June have the highest successful outcomes.  Interestingly, the months of May, July, October and June have the highest number of failed outcomes.  This speaks to the volume of the number of Kickstarter Theater campaigns that occur during the summer months of May – July.  However, there does seem to be a spike in failure rates starting in October which may signal a seasonality trend.  One explanation for the seasonality effect is the disposable income for businesses and people in general seem to decrease as the calendar year expires. This will be demonstrated more optimally in a later visualization.
 ### Conclusions about Outcomes Based on Goals
 ![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
-
+The dataset suggests that Kickstarter campaigns with goals from less than $1000 and $1000 to $4999 have a much higher success rate than campaigns with higher goal ranges.  The percentage of campaigns increases dramatically from the $5000 range and up.  However, most of the campaigns have goals less than $9999.  A simple calculation shows that 85.23% of the Kickstarter campaigns are comprised of goals with under $10000.  There are successful campaigns with good success rates in the $35000-$39999 and $40000 to $44999 ranges, but the raw data suggests there is not enough data points (9 total in a set of 1043 data points) that suggest these success rates are not statistically significant.
 ### Limitations on the Dataset
 
 ### More Optimal Visualizations
