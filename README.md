@@ -1,5 +1,8 @@
 # An Analysis of Kickstarter Campaigns 
 ## Performing analysis on Kickstarter data to uncover trends.
+### To help Louise analyze how different Kickstarter campaigns fared in relation to their launch dates, this analysis is an effort in understanding how different campaigns fared based on their respective launch dates and funding goals.
+
+## Results of Analysis
 ### Conclusions about Outcomes Based on Launch Date Data
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/85074720/123522205-8b3ba800-d681-11eb-8413-c99b9cbf0135.png)
 
